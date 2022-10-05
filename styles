@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 5.6rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+hr{
+    border: dotted gray 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+    height: 0;
+}
+.my-skills{
+    padding: 30px;
+}
+.intro{
+    width: 30%;
+    margin:auto;
+    line-height: 2;
+}
+h2{
+    
+    color:#66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    margin-top:0;
+    font-size: 1rem;
+}
+.skill-row{
+    width:50%;
+    margin:0 auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.react-img{
+    float: right;
+    margin-left: 30px;
+}
+.hiking{
+    float: left;
+    margin-right: 30px;
+}
+.contact{
+    margin: 50px auto;
+}
+.DnD{
+    line-height: 2;
+    margin-top: 0;
+}
+
+#top-container{
+    padding-top: 100px;
+   position: relative;
+    background-color: #e4f9f5;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px
+}
+
+.btn{
+    border-radius: 8px;
+    background-color: #66bfbf;
+    color:white;
+    margin-bottom: 50px;
+}
+.btn:hover{
+    background-color: #30e3cb;
+}
+
+ #middle-container{
+   margin: 100px auto;
+}
+#bottom-container{
+    background-color: #66bfbf;
+    height: 100px;
+    padding: 50px 0 20px;
+    
+} 
+.footer-link{
+    margin: 20px;
+    padding:1rem;
+}
+.last{
+    color: white;
+    padding:40px;
+}
